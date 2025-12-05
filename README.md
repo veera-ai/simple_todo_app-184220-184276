@@ -1,1 +1,3 @@
-# simple_todo_app-184220-184276
+# Project Repository
+
+This is the initial README file for the project.
