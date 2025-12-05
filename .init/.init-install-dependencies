@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/simple_todo_app-184220-184276/SimpleTodoAppContainer"
+}
